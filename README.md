@@ -17,7 +17,7 @@ An assistive smart cane for visually impaired users. It uses ultrasonic sensors 
 - SOS messaging planned (future upgrade)  
 
 ## Code  
-See the `Code/` folder for Arduino sketches.
+See the `code4smartcane/` folder for Arduino sketches.
 
 ## Notes  
 Calibration may be required for MPU6050 thresholds.
